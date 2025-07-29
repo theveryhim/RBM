@@ -11,4 +11,4 @@ In this repo we are going to use Restricterd Boltzman Machine(RBM) in practice, 
     <img src="images/2.png" alt="Descriptive Alt Text" class="fit-width-image">
 </p>
 
-:heavy_check:Trained model is also available as *rbm_model.pth*
+✔️Trained model is also available as *rbm_model.pth*
